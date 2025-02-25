@@ -1,0 +1,6 @@
+[submodule "RoboFly/aideck-gap8"]
+	path = RoboFly/aideck-gap8
+	url = git@github.com:buabula/aideck-gap8.git
+[submodule "RoboFly/CF-firmware"]
+	path = RoboFly/CF-firmware
+	url = git@github.com:buabula/CF-firmware.git
